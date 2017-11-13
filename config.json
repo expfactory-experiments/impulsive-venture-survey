@@ -1,0 +1,19 @@
+{
+    "name": "I7: I-7 impulsiveness and venturesomeness questionnaire Survey",
+    "template":"survey",
+    "exp_id": "impulsive-venture-survey",
+    "cognitive_atlas_task_id": "trm_56a91e3e982f9",
+    "contributors": [
+             "Zeynep Enkavi",
+             "Ian Eisenberg",
+             "Patrick Bissett",
+             "Vanessa Sochat",
+             "Russell Poldrack"
+            ], 
+    "time":1,
+    "experiment_variables": "",
+    "reference": ["http://ac.els-cdn.com/019188698590011X/1-s2.0-019188698590011X-main.pdf?_tid=ee891a2e-58a5-11e5-a532-00000aab0f6b&acdnat=1441990720_959c611bec7aa4c79e3c0b6f4680da59"],
+    "description": "Experiment Factory survey",
+    "instructions": "Please answer the following questions to the best of your ability"
+}
+
