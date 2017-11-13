@@ -2,6 +2,7 @@
     "name": "I7: I-7 impulsiveness and venturesomeness questionnaire Survey",
     "template":"survey",
     "exp_id": "impulsive-venture-survey",
+    "url": "https://github.com/expfactory-experiments/impulsive-venture-survey",
     "cognitive_atlas_task_id": "trm_56a91e3e982f9",
     "contributors": [
              "Zeynep Enkavi",
